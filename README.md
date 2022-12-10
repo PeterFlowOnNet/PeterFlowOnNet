@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PeterFlowOnNet
-- 👀 I’m interested in networking, security, routing, switching and SDN, SDWAN tech
+- 👀 I’m interested in networking, security, routing, switching and SDN, SDWAN techs
 - 🌱 I’m currently learning SDN Networks
 
 <!---
